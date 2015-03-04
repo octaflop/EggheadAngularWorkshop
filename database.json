@@ -687,5 +687,7 @@
     }
   ],
   "games": [],
-  "favicon.ico": []
+  "favicon.ico": [],
+  "bower_components": [],
+  "angular-material.min.js": []
 }
