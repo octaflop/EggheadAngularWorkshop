@@ -1,43 +1,32 @@
 'use strict';
 
-angular.module('workshop', [])
+angular.module('common', [])
   // $http → service
-  .controller('WorkshopCtrl', function WorkshopCtrl($http){
+  // Custom service
+  .service("people", function People($http){
+    var people = this;
+
+    people.all = function all() {
+      return $http.get("/people")
+        .then(function (result) {
+          return result.data;
+        });
+    }
+
+  })
+
+angular.module('workshop', ['common'])
+  .controller('WorkshopCtrl', function WorkshopCtrl(people){
     var workshop = this;
 
-    workshop.people = [];
+    people.all().then(function success(result){
+      console.log(result);
+      workshop.people = result;
+    });
 
-    $http.put("/people/11", {firstName: "Billy"})
-      .then(function success(result){
-        console.log(result);
-      }, function error(error){
-        console.log(error);
-      });
+  })
 
-    // $http.get("$%)(*") // returns an error
-    workshop.loadGames = function loadGames () {
-      $http.get("/people")
-        .then(function success(result) {
-          workshop.people = result.data;
-        }, function error(error) {
-          console.log(error);
-        });  // .then promises to get games
-    };
-
-    // CRUD stuff
-    workshop.loadGames();
-
-    workshop.removeGame = function removeGame(personID) {
-      var deletion_url = "/people/" + personID;
-      console.log("DELETION" + deletion_url);
-
-      $http.delete(deletion_url)
-        .then(function success(result){
-          console.log(result);
-          workshop.loadGames();
-        }, function error(error){
-          console.log(error);
-        });
-    };
+  .controller('LunchCtrl', function LunchCtrl(people){
+    var lunch = this;
 
   });
