@@ -7,6 +7,13 @@ angular.module('workshop', [])
 
     workshop.people = [];
 
+    $http.put("/people/11", {firstName: "Billy"})
+      .then(function success(result){
+        console.log(result);
+      }, function error(error){
+        console.log(error);
+      });
+
     // $http.get("$%)(*") // returns an error
     workshop.loadGames = function loadGames () {
       $http.get("/people")
@@ -23,6 +30,7 @@ angular.module('workshop', [])
     workshop.removeGame = function removeGame(personID) {
       var deletion_url = "/people/" + personID;
       console.log("DELETION" + deletion_url);
+
       $http.delete(deletion_url)
         .then(function success(result){
           console.log(result);
