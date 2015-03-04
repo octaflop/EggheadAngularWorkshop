@@ -1,0 +1,1185 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"js",
+				"js_end"
+			],
+			[
+				"Camp",
+				"CampusEvent	import"
+			],
+			[
+				"cal",
+				"calendars"
+			],
+			[
+				"view",
+				"viewsets	import"
+			],
+			[
+				"Campus",
+				"CampusEventSerializer	class"
+			],
+			[
+				"pro",
+				"property	class"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"parnet_p",
+				"parent_purchasable_programs"
+			],
+			[
+				"post",
+				"posted_on"
+			],
+			[
+				"poste",
+				"posted_on	statement"
+			],
+			[
+				"sign",
+				"signout_datetime"
+			],
+			[
+				"coup",
+				"coupon_applied	statement"
+			],
+			[
+				"red",
+				"redeem_by	statement"
+			],
+			[
+				"amount",
+				"amount_off"
+			],
+			[
+				"du",
+				"duration_in_months	statement"
+			],
+			[
+				"dur",
+				"duration_in_months"
+			],
+			[
+				"percen",
+				"percent_off"
+			],
+			[
+				"re",
+				"redeem_by	statement"
+			],
+			[
+				"Ke",
+				"KeyError	class"
+			],
+			[
+				"class",
+				"classinfo"
+			],
+			[
+				"prog",
+				"prog_ctx	forflow"
+			],
+			[
+				"progra",
+				"program_set	statement"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"pr",
+				"property	class"
+			],
+			[
+				"progr",
+				"program_attended"
+			],
+			[
+				"req",
+				"request_data"
+			],
+			[
+				"data",
+				"datasets"
+			],
+			[
+				"trac",
+				"trackers	statement"
+			],
+			[
+				"set",
+				"set_up_timeslider"
+			],
+			[
+				"new",
+				"new_date"
+			],
+			[
+				"start",
+				"start_selection"
+			],
+			[
+				"end",
+				"endjsdate	statement"
+			],
+			[
+				"star",
+				"startjsdate	statement"
+			],
+			[
+				"date",
+				"datetime	class"
+			],
+			[
+				"leg",
+				"legacy_STEM"
+			],
+			[
+				"_",
+				"_program_slug_consolidate	function"
+			],
+			[
+				"pag",
+				"paginateScroll"
+			],
+			[
+				"Stu",
+				"StudentScheduleEntry	import"
+			],
+			[
+				"Ind",
+				"IndexError	class"
+			],
+			[
+				"tot",
+				"total_colspans	statement"
+			],
+			[
+				"col",
+				"colspans	statement"
+			],
+			[
+				"unique",
+				"unique_check"
+			],
+			[
+				"uni",
+				"unique_check	statement"
+			],
+			[
+				"un",
+				"unique_check	statement"
+			],
+			[
+				"uniq",
+				"uniquer"
+			],
+			[
+				"next",
+				"next_check	statement"
+			],
+			[
+				"half",
+				"half_hour"
+			],
+			[
+				"co",
+				"colspandiff	statement"
+			],
+			[
+				"cols",
+				"colspandiff"
+			],
+			[
+				"camp",
+				"campus_admin_required	import"
+			],
+			[
+				"instru",
+				"instructor_ids	statement"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"Boo",
+				"BookedClassroom	import"
+			],
+			[
+				"booke",
+				"booked_classroom"
+			],
+			[
+				"select_instr",
+				"select_instructors_modal"
+			],
+			[
+				"Class",
+				"ClassroomAdmin	class"
+			],
+			[
+				"comb",
+				"comb_next_class	statement"
+			],
+			[
+				"com",
+				"comb_next_class	statement"
+			],
+			[
+				"sdt",
+				"sdt_start	statement"
+			],
+			[
+				"nex",
+				"next_campus_class"
+			],
+			[
+				"ass",
+				"assertEquals"
+			],
+			[
+				"dump",
+				"dumps	function"
+			],
+			[
+				"old",
+				"old_classroom_id"
+			],
+			[
+				"fre",
+				"frequency	statement"
+			],
+			[
+				"stude",
+				"student_schedule"
+			],
+			[
+				"clas",
+				"classinfo_set"
+			],
+			[
+				"help",
+				"help_text"
+			],
+			[
+				"Fre",
+				"FREQUENCY_CHOICES	statement"
+			],
+			[
+				"stu",
+				"student_schedule	statement"
+			],
+			[
+				"remo",
+				"remove_student_schedule	function"
+			],
+			[
+				"get_",
+				"get_or_create_class_resource	function"
+			],
+			[
+				"sch",
+				"sched_len	statement"
+			],
+			[
+				"res",
+				"res_len"
+			],
+			[
+				"resour",
+				"resources"
+			],
+			[
+				"spa",
+				"spaces_taken	function"
+			],
+			[
+				"is",
+				"is_zanemath"
+			],
+			[
+				"tw",
+				"two_weeks	statement"
+			],
+			[
+				"time",
+				"timedelta	class"
+			],
+			[
+				"Stud",
+				"StudentScheduleEntry	class"
+			],
+			[
+				"mess",
+				"message	statement"
+			],
+			[
+				"check",
+				"check_student_subscribed"
+			],
+			[
+				"stud",
+				"student_schedule	param"
+			],
+			[
+				"program",
+				"program_schedule	statement"
+			],
+			[
+				"Cam",
+				"CampusFactory	class"
+			],
+			[
+				"C",
+				"ClassResourceFactory	import"
+			],
+			[
+				"Time",
+				"TimestampMixin	import"
+			],
+			[
+				"Fac",
+				"FACTORY_FOR"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"cour",
+				"course_info"
+			],
+			[
+				"dis",
+				"display_name"
+			],
+			[
+				"course",
+				"courseinfo	statement"
+			],
+			[
+				"to",
+				"to_who_full_name	statement"
+			],
+			[
+				"Bas",
+				"BaseProfile	import"
+			],
+			[
+				"who",
+				"who_did_it	statement"
+			],
+			[
+				"more",
+				"more_info"
+			],
+			[
+				"utf",
+				"utf-8"
+			],
+			[
+				"cou",
+				"course_name_template	statement"
+			],
+			[
+				"ne",
+				"next_lesson_context	statement"
+			],
+			[
+				"campus",
+				"campus_schedule"
+			],
+			[
+				"sched",
+				"schedules_len	statement"
+			],
+			[
+				"cam",
+				"campus_admin_required	import"
+			],
+			[
+				"le",
+				"legorobotics"
+			],
+			[
+				"bar",
+				"bar_width	statement"
+			],
+			[
+				"pl",
+				"pltconcepts	statement"
+			],
+			[
+				"plt",
+				"pltvalues	statement"
+			],
+			[
+				"conc",
+				"concept	forflow"
+			],
+			[
+				"Or",
+				"OrderedDict	class"
+			],
+			[
+				"conce",
+				"concepts	statement"
+			],
+			[
+				"con",
+				"Concepts"
+			],
+			[
+				"cent",
+				"century_skill"
+			],
+			[
+				"sor",
+				"skill_sort	function"
+			],
+			[
+				"sce",
+				"schedule	statement"
+			],
+			[
+				"student",
+				"student_assessment"
+			],
+			[
+				"gen",
+				"generate_custom_assessment"
+			],
+			[
+				"Asse",
+				"assessmentconcepts"
+			],
+			[
+				"mile",
+				"mileconcepts"
+			],
+			[
+				"mil",
+				"mileconcepts	statement"
+			],
+			[
+				"ans",
+				"answer"
+			],
+			[
+				"graph",
+				"graph_display"
+			],
+			[
+				"studen",
+				"student_assessment"
+			],
+			[
+				"rec",
+				"receipt_items"
+			],
+			[
+				"exc",
+				"except	module"
+			],
+			[
+				"invoice",
+				"invoice_charge_amount"
+			],
+			[
+				"price",
+				"price_paid"
+			],
+			[
+				"recei",
+				"receipt_items"
+			],
+			[
+				"ch",
+				"checked_out_by"
+			],
+			[
+				"get_chec",
+				"get_checkout_name"
+			],
+			[
+				"chec",
+				"checked_in_by"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/repeat/index.html",
+			"settings":
+			{
+				"buffer_size": 570,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/repeat/app.js",
+			"settings":
+			{
+				"buffer_size": 395,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\nDon't use `ng-init` in the body.\n\n`ng-bind` will do the same binding\n\n\n# Scoping\n\n`$scope`\n\n#\n",
+			"file": "public/notes/notes.md",
+			"file_size": 92,
+			"file_write_time": 130699637015430369,
+			"settings":
+			{
+				"buffer_size": 95,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 117.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"con",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				"preview",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/faris/workspace/projects/EggheadAngularWorkshop",
+		"/home/faris/workspace/projects/EggheadAngularWorkshop/public",
+		"/home/faris/workspace/projects/EggheadAngularWorkshop/public/repeat"
+	],
+	"file_history":
+	[
+		"/home/faris/workspace/projects/EggheadAngularWorkshop/public/mod_example/app.js",
+		"/home/faris/workspace/projects/EggheadAngularWorkshop/public/01/index.html",
+		"/home/faris/workspace/projects/EggheadAngularWorkshop/public/03/basic_controller.js",
+		"/home/faris/workspace/projects/EggheadAngularWorkshop/public/mod_example/index.html",
+		"/home/faris/.config/sublime-text-3/Packages/User/JavaScript.sublime-settings",
+		"/home/faris/.config/sublime-text-3/Packages/User/HTML (Django).sublime-settings",
+		"/home/faris/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/faris/.config/sublime-text-3/Packages/User/HTML.sublime-settings",
+		"/home/faris/workspace/projects/EggheadAngularWorkshop/public/02/index.html",
+		"/home/faris/workspace/projects/zaniac/apps/calendars/static/css/zaniac_calendar.css",
+		"/home/faris/workspace/projects/zaniac/apps/calendars/static/less/week.less",
+		"/home/faris/workspace/projects/zaniac/apps/calendars/static/less/grid.less",
+		"/home/faris/workspace/projects/zaniac/apps/calendars/static/less/day.less",
+		"/home/faris/workspace/projects/zaniac/apps/calendars/static/caltmpls/day.html",
+		"/home/faris/workspace/projects/zaniac/apps/calendars/static/caltmpls/month.html",
+		"/home/faris/workspace/projects/zaniac/apps/calendars/static/caltmpls/week-days.html",
+		"/home/faris/workspace/projects/zaniac/apps/calendars/static/caltmpls/week.html",
+		"/home/faris/workspace/projects/zaniac/apps/calendars/static/caltmpls/year.html",
+		"/home/faris/workspace/projects/zaniac/apps/calendars/static/bootstrap-calendar/css/calendar.css",
+		"/home/faris/workspace/projects/zaniac/apps/calendars/models.py",
+		"/home/faris/workspace/projects/zaniac/apps/calendars/api/serializers.py",
+		"/home/faris/workspace/projects/zaniac/apps/calendars/urls.py",
+		"/home/faris/workspace/projects/zaniac/apps/calendars/api/views.py",
+		"/home/faris/workspace/projects/zaniac/apps/calendars/views/front.py",
+		"/home/faris/workspace/projects/zaniac/apps/zaniac/models.py",
+		"/home/faris/workspace/projects/zaniac/apps/calendars/tests/calendars_base.py",
+		"/home/faris/workspace/projects/zaniac/apps/echeck/tests/echeck_base.py",
+		"/home/faris/workspace/projects/zaniac/apps/calendars/tests/__init__.py",
+		"/home/faris/workspace/projects/zaniac/apps/zaneprep/models/mixins.py",
+		"/home/faris/workspace/projects/zaniac/apps/zaniac/views/checkout.py",
+		"/home/faris/workspace/projects/zaniac/apps/ecommerce/views/checkout.py",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/models.py",
+		"/home/faris/workspace/projects/zaniac/apps/echeck/views/employee.py",
+		"/home/faris/workspace/projects/zaniac/apps/echeck/models.py",
+		"/home/faris/workspace/projects/zaniac/apps/echeck/templates/echeck/employee/status.html",
+		"/home/faris/workspace/projects/zaniac/apps/echeck/templates/echeck/employee/payments.html",
+		"/home/faris/workspace/projects/zaniac/apps/echeck/templates/echeck/employee/overview.html",
+		"/home/faris/workspace/projects/zaniac/apps/zaniac/static/sass/_responsive.scss",
+		"/home/faris/workspace/projects/zaniac/apps/zaniac/admin_site.py",
+		"/home/faris/workspace/projects/zaniac/apps/zaniac/admin.py",
+		"/home/faris/workspace/projects/zaniac/apps/zaniac/urls.py",
+		"/home/faris/workspace/projects/zaniac/apps/zaniac/templates/zaniac/campus/_campus.html",
+		"/home/faris/workspace/projects/zaniac/apps/ecommerce/utils.py",
+		"/home/faris/workspace/projects/zaniac/apps/zaneprep/settings/base.py",
+		"/home/faris/workspace/projects/zaniac/apps/ecommerce/urls.py",
+		"/home/faris/workspace/projects/zaniac/apps/echeck/views/wizard.py",
+		"/home/faris/workspace/projects/zaniac/apps/echeck/pin_utils.py",
+		"/home/faris/workspace/projects/zaniac/apps/postal/models.py",
+		"/home/faris/workspace/projects/zaniac/apps/postal/backends.py",
+		"/home/faris/workspace/projects/zaniac/apps/echeck/templates/echeck/thankyou.html",
+		"/home/faris/workspace/projects/zaniac/apps/ecommerce/api/checkout.py",
+		"/home/faris/workspace/projects/zaniac/apps/ecommerce/api/views.py",
+		"/home/faris/workspace/projects/zaniac/apps/fpanel/static/js/d3.min.js",
+		"/home/faris/workspace/projects/zaniac/apps/zaniac/static/js/jquery-1.10.1.min.js",
+		"/home/faris/workspace/projects/zaniac/apps/ecommerce/views/parent_products.py",
+		"/home/faris/workspace/projects/zaniac/apps/ecommerce/api/urls.py",
+		"/home/faris/workspace/projects/zaniac/apps/ecommerce/management/commands/sync_initial_stripe.py",
+		"/home/faris/workspace/projects/zaniac/apps/ecommerce/models.py",
+		"/home/faris/workspace/projects/zaniac/apps/ecommerce/templates/ecommerce/checkout/charge_manual.html",
+		"/home/faris/workspace/projects/zaniac/apps/ecommerce/templates/ecommerce/checkout/includes/manual_purchase.html",
+		"/home/faris/workspace/projects/zaniac/apps/ecommerce/static/js/parentCart.js",
+		"/home/faris/workspace/projects/zaniac/apps/ecommerce/parent_logic.py",
+		"/home/faris/workspace/projects/zaniac/apps/ecommerce/charge_logic.py",
+		"/home/faris/workspace/projects/zaniac/apps/users/management/commands/birthday_students.py",
+		"/home/faris/workspace/projects/zaniac/apps/ecommerce/static/js/cartManager.js",
+		"/home/faris/workspace/projects/zaniac/apps/campus/forms.py",
+		"/home/faris/workspace/projects/zaniac/apps/fpanel/views/receipt_sum.py",
+		"/home/faris/workspace/projects/zaniac/apps/thumbjax/views/tests.py",
+		"/home/faris/workspace/projects/zaniac/apps/blog/templates/blog/templatetags/recent_posts.html",
+		"/home/faris/workspace/projects/zaniac/apps/zaniac/templates/zaniac/campus/gallery.html",
+		"/home/faris/workspace/projects/zaniac/apps/blog/templates/blog/articles/article_list.html",
+		"/home/faris/workspace/projects/zaniac/apps/campus/templates/campus/settings/gallery.html",
+		"/home/faris/workspace/projects/zaniac/apps/campus/templates/campus/settings/meet_team.html",
+		"/home/faris/workspace/projects/zaniac/apps/gallery/templates/gallery/templatetags/top_gallery.html",
+		"/home/faris/workspace/projects/zaniac/apps/courses/models.py",
+		"/home/faris/workspace/projects/zaniac/apps/echeck/views/api/graphs.py",
+		"/home/faris/workspace/projects/zaniac/apps/echeck/static/js/echeck_dashboard.js",
+		"/home/faris/workspace/projects/zaniac/apps/zaniac/management/commands/mark_deployment.py",
+		"/home/faris/workspace/projects/zaniac/apps/echeck/views/dashboard.py",
+		"/home/faris/workspace/projects/zaniac/apps/echeck/templates/echeck/chart_index.html",
+		"/home/faris/workspace/projects/zaniac/apps/echeck/urls.py",
+		"/home/faris/workspace/projects/zaniac/templates/themes/kuta/sidebars/campusadmin_sidebar.html",
+		"/home/faris/workspace/projects/zaniac/apps/stream/models.py",
+		"/home/faris/workspace/projects/zaniac/apps/blurbs/__init__.py",
+		"/home/faris/workspace/projects/zaniac/apps/zaneprep/settings/sql_local.py",
+		"/home/faris/workspace/projects/zaniac/apps/zaneprep/settings/local.py",
+		"/home/faris/workspace/projects/zaniac/apps/zaniac/views/front.py",
+		"/home/faris/workspace/projects/zaniac/apps/zaniac/templates/zaniac/campus/campushome.html",
+		"/home/faris/workspace/projects/zaniac/apps/zaniac/templates/zaniac/campus/newsletter.html",
+		"/home/faris/workspace/projects/zaniac/apps/zaniac/templates/zaniac/includes/newsletterform.html",
+		"/home/faris/workspace/projects/zaniac/apps/courses/forms.py",
+		"/home/faris/workspace/projects/zaniac/apps/courses/templates/courses/include/select_assessment_modal.html",
+		"/home/faris/workspace/projects/zaniac/apps/fpanel/static/js/fpanel.js",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/static/js/classrooms.js",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/templates/schedules/campus_resources.html",
+		"/home/faris/workspace/projects/zaniac/apps/fpanel/dashboard_logic.py",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/views/resources.py",
+		"/home/faris/workspace/projects/zaniac/apps/fpanel/templates/fpanel/index.html",
+		"/home/faris/workspace/projects/zaniac/apps/echeck/views/api/__init__.py",
+		"/home/faris/workspace/projects/zaniac/apps/fpanel/views/api.py",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/templates/schedules/templatetags/date_spanner.html",
+		"/home/faris/workspace/projects/zaniac/apps/echeck/templates/echeck/_dashboard_base.html",
+		"/home/faris/workspace/projects/zaniac/apps/echeck/templates/echeck/dashboard.html",
+		"/home/faris/workspace/projects/zaniac/apps/fpanel/views/front.py",
+		"/home/faris/workspace/projects/zaniac/apps/blurbs/models.py",
+		"/home/faris/.config/sublime-text-3/Packages/User/Python Django.sublime-settings",
+		"/home/faris/workspace/projects/zaniac/apps/courses/templates/courses/info.html",
+		"/home/faris/workspace/projects/zaniac/apps/courses/views.py",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/views/campus_dashboard.py",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/templates/schedules/campus_dashboard.html",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/views/classrooms.py",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/urls.py",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/templates/schedules/includes/classroom/classroom_dashboard.html",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/admin.py",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/utils.py",
+		"/home/faris/workspace/projects/zaniac/apps/zaniac/tests/basecase.py",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/tests/dst_tests.py",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/dst_fix_scratch.py",
+		"/home/faris/workspace/projects/artofpython/art/turtle/lsystems.py",
+		"/home/faris/workspace/projects/zaniac/dst_fix_scratch.py",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/templates/schedules/includes/campusschedule_table.html",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/tests/schedbase.py",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/management/commands/load_resources.py",
+		"/home/faris/workspace/projects/zaniac/apps/schedules/templates/schedules/includes/api/next_lesson_dropdown.html",
+		"/home/faris/workspace/projects/zaniac/apps/inquest/models.py",
+		"/home/faris/workspace/projects/zaniac/apps/inquest/fix_utf8_assessment.py",
+		"/home/faris/workspace/projects/zaniac/apps/zaniac/zaniacsitemaps.py",
+		"/home/faris/workspace/projects/zaniac/apps/zaniac/migrations/0049_auto__add_field_programschedule_frequency_of_courses.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/faris/workspace/projects/zaniac/apps/zaniac/static/sass",
+			"/home/faris/workspace/projects/zaniac/apps",
+			"/home/faris/workspace/projects/zaniac/apps/zaniac",
+			"/home/faris/workspace/projects/zaniac/apps/zaniac/templates",
+			"/home/faris/workspace/projects/zaniac",
+			"/home/faris/workspace/projects/zaniac/apps/ecommerce",
+			"/home/faris/workspace/projects/zaniac/apps",
+			"/home/faris/workspace/projects/zaniac/apps/zaniac",
+			"/home/faris/workspace/projects/zaniac/apps",
+			"/home/faris/workspace/projects/zaniac/apps/echeck",
+			"/home/faris/workspace/projects/zaniac/apps",
+			"/home/faris/workspace/projects/zaniac/apps/hooks",
+			"/home/faris/workspace/projects/zaniac",
+			"/home/faris/workspace/projects/zaniac/apps/courses",
+			"/home/faris/workspace/projects/zaniac/apps",
+			"/home/faris/workspace/projects/zaniac/apps/zaniac/static/sass",
+			"/home/faris/workspace/projects/zaniac/apps",
+			"/home/faris/workspace/projects/zaniac/apps/inquest",
+			"/home/faris/workspace/projects/zaniac/apps/zaneprep/settings",
+			"/home/faris/workspace/projects/zaniac/static/assets/js/ckeditor",
+			"/home/faris/workspace/projects/zaniac/apps",
+			"/home/faris/workspace/projects/zaniac/apps/ecommerce/templates",
+			"/home/faris/workspace/projects/zaniac/apps/zaniac/static/sass",
+			"/home/faris/workspace/projects/zaniac/apps/hooks",
+			"/home/faris/workspace/projects/zaniac/apps",
+			"/home/faris/workspace/projects/zaniac/apps/ecommerce",
+			"/home/faris/workspace/projects/zaniac/apps",
+			"/home/faris/workspace/projects/zaniac",
+			"/home/faris/workspace/projects/zaniac/apps/users",
+			"/home/faris/workspace/projects/zaniac/apps/blog",
+			"/home/faris/workspace/projects/zaniac/apps",
+			"/home/faris/workspace/projects/zaneprep",
+			"/home/faris/workspace/projects/zaneprep/apps/zaneprep"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"CHOICE",
+			"zcampus",
+			"programs",
+			"schedule",
+			"@media",
+			"posted_on",
+			"content_type",
+			"mimetype",
+			".mob-menu",
+			"menu",
+			"hamburger",
+			"menu",
+			"hamburger",
+			"admin.site",
+			"full",
+			"Full",
+			"json",
+			"coupons",
+			"manual_checkout",
+			"coupon",
+			"redeem_by",
+			"is_active",
+			"blog",
+			"#",
+			"program.slug",
+			"zanemath-class",
+			"zanemath",
+			"newslett",
+			"newsletter =",
+			"newsletter",
+			"ClassResource",
+			"Select an assessment",
+			"500px",
+			"change",
+			"POST",
+			"start",
+			"date",
+			"time_slider",
+			"set",
+			"start",
+			"trial",
+			"homework",
+			".items.all(",
+			"__gt",
+			"start",
+			"program = 'camp",
+			"program = 'cmap",
+			"camp",
+			"item['program']",
+			"modal",
+			"(start",
+			"duration",
+			"colspan",
+			"booked_classrooms",
+			"colsp",
+			"User",
+			"instructors = ",
+			"drop",
+			"classroom",
+			"class_resources",
+			"next_class",
+			"student",
+			"classroom",
+			"end_",
+			"get_or",
+			"next_campus",
+			"zm_",
+			"is_public=",
+			"weekly",
+			"_left",
+			"choices",
+			"next_",
+			"date",
+			"receipt",
+			".icon",
+			".save()",
+			"update",
+			"next_class",
+			"save_student",
+			"you must enter",
+			"stripeplan",
+			"subscription",
+			"self",
+			"five_weeks",
+			"five_weeks_from_today",
+			"@",
+			"send_activat",
+			"send_activate",
+			"thankyou",
+			"'sign_out'",
+			"sign_out",
+			"add_stream_element",
+			"just used the desk checkout to complete",
+			"user = ",
+			"ullname",
+			"fullname",
+			"#",
+			"\":",
+			"emailed",
+			"get_absolute_url(",
+			"get_absolute",
+			"send_",
+			"complete_course",
+			"complete",
+			"classinfo",
+			"fullname",
+			"except",
+			"pass",
+			"redirect",
+			"Does",
+			"plan = ct.",
+			"plan = ct",
+			"plan = ",
+			"ct.get_ob",
+			"save_student_schedule",
+			"activate_student",
+			"program",
+			"program_infos",
+			"StripePlan",
+			"subscription",
+			"edison",
+			"campus_time_to",
+			"compile_concepts",
+			"version",
+			"schedul",
+			"sched_sort",
+			"key",
+			"teim"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"campus",
+			"content_type",
+			"admin_site",
+			"GET",
+			"end",
+			".items.filter(is_trial=False",
+			"slug",
+			"end",
+			"from_today",
+			"concept_name",
+			"",
+			"CampRelatedCourseForm",
+			"CampItemForSaleForm",
+			"There are",
+			"redirect",
+			"ecommerce/camps",
+			"camp_",
+			"is_obsolete",
+			"redirect",
+			"ctx",
+			"",
+			"render(request, ",
+			"redirect(",
+			"SubscriptionNoteForm",
+			"student",
+			"ProductCreateUpdateView"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/repeat/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								516,
+								516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/repeat/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "public/notes/notes.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 95,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.64243902439,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "eggheadworkshop.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/workspace/projects/zaniac/zaniac.sublime-project"
+			],
+			[
+				"slc",
+				"~/workspace/projects/slcpy.com/slcpy.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

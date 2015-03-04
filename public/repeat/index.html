@@ -12,12 +12,17 @@
 
   <div ng-controller="WorkshopCtrl as workshop">
 
-    <ul>
-      <li ng-repeat="topic in workshop.topics">
-        {{ topic }}
-      </li>
-    </ul>
-  </div>
+  <input ng-model="workshop.message" type="text" />
+  {{ workshop.message }}
+
+  <table class='table table-bordered'>
+    <tbody>
+      <tr ng-repeat="topic in workshop.topics">
+        <td>{{ topic.name }}</td>
+        <td>{{ topic.duration }}</td>
+      </tr>
+    </tbody>
+  </table>
 
 </body>
 </html>
