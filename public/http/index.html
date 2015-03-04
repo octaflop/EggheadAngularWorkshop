@@ -12,6 +12,13 @@
 
   <div ng-controller="WorkshopCtrl as workshop">
     <table class='table table-striped'>
+      <thead>
+        <tr>
+          <th>Image</th>
+          <th>Name</th>
+          <th>Average Rating</th>
+        </tr>
+      </thead>
       <tbody>
         <tr ng-repeat="game in workshop.games">
           <td>
@@ -21,6 +28,7 @@
             {{ game.name }}
           </td>
           <td>
+            {{ game.averageRating }}
           </td>
         </tr>
       </tbody>
