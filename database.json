@@ -57,13 +57,6 @@
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/woodydotmx/128.jpg"
     },
     {
-      "id": 10,
-      "firstName": "Mozelle",
-      "lastName": "Wisozk",
-      "email": "Mozelle_Wisozk31@hotmail.com",
-      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/shanehudson/128.jpg"
-    },
-    {
       "id": 11,
       "firstName": "Billy",
       "lastName": "Buckridge",
@@ -685,6 +678,12 @@
       "lastName": "Murazik",
       "email": "Axel.Murazik16@gmail.com",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ryankirkman/128.jpg"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "The Builder",
+      "email": "bob@example.com",
+      "id": 100
     }
   ],
   "games": [],
