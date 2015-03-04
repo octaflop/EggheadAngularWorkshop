@@ -1,3 +1,5 @@
+'use strict';
+
 angular.module('workshop', [])
   .controller('WorkshopCtrl', function WorkshopCtrl(){  // Anonymous function allowed. but stops debugging
     var workshop = this;

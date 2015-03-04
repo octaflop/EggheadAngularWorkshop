@@ -12,7 +12,8 @@
 
   <div ng-controller="WorkshopCtrl as workshop">
 
-    <input type='text' ng-model="workshop.searchTerm" />
+    <input type='text' ng-model="workshop.searchObject.name" />
+    <input type='text' ng-model="workshop.searchObject.duration" />
 
     <table class='table table-bordered'>
       <thead>
@@ -28,7 +29,7 @@
       <tbody>
         <tr ng-repeat="topic in workshop.topics | 
         orderBy:workshop.sortOrder |
-        filter:workshop.searchTerm">
+        filter:workshop.searchObject">
           <td>{{ topic.name }}</td>
           <td>{{ topic.duration }}hrs</td>
         </tr>
