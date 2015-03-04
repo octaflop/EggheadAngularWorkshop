@@ -4,12 +4,12 @@ angular.module('workshop', [])
   .controller('WorkshopCtrl', function WorkshopCtrl(){  // Anonymous function allowed. but stops debugging
     var workshop = this;
 
-    workshop.sortOrder = "";
-    workshop.onNameClicked = function onNameClicked() {
-      workshop.sortOrder = "name";
-    };
-    workshop.onDurationClicked = function onDurationClicked() {
-      workshop.sortOrder = "duration";
+    workshop.sortClicked = function sortClicked(whichSort) {
+      if (workshop.sortOrder == whichSort) {
+        workshop.sortOrder = "-" + workshop.sortOrder;
+      } else {
+        workshop.sortOrder = whichSort;
+      }
     };
 
     workshop.topics = [
