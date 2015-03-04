@@ -2,7 +2,7 @@
 <html ng-app="workshop">
 <head lang="en">
   <meta charset="UTF-8">
-  <title>ng-repeat</title>
+  <title>ng-filters</title>
   <script src="../js/angular.js"></script>
   <script type="text/javascript" src="app.js"></script>
   <link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
@@ -11,6 +11,9 @@
 <body> 
 
   <div ng-controller="WorkshopCtrl as workshop">
+
+    <input type='text' ng-model="workshop.searchTerm" />
+
     <table class='table table-bordered'>
       <thead>
         <tr>
@@ -23,12 +26,15 @@
         </tr>
       </thead>
       <tbody>
-        <tr ng-repeat="topic in workshop.topics | orderBy:workshop.sortOrder">
+        <tr ng-repeat="topic in workshop.topics | 
+        orderBy:workshop.sortOrder |
+        filter:workshop.searchTerm">
           <td>{{ topic.name }}</td>
           <td>{{ topic.duration }}hrs</td>
         </tr>
       </tbody>
     </table>
   </div>
+
 </body>
 </html>
