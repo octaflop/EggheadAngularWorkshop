@@ -12,6 +12,10 @@
 
   <div ng-controller="WorkshopCtrl as workshop">
 
+  <p>
+    <button ng-click="workshop.click()" class='btn'>Click Me</button>
+  </p>
+
   <input ng-model="workshop.message" type="text" />
   {{ workshop.message }}
 
