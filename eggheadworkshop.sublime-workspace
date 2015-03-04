@@ -520,26 +520,33 @@
 	"buffers":
 	[
 		{
-			"file": "public/repeat/index.html",
+			"file": "public/sort_filter/index.html",
 			"settings":
 			{
-				"buffer_size": 570,
+				"buffer_size": 1124,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "public/repeat/app.js",
+			"file": "public/sort_filter/app.js",
 			"settings":
 			{
-				"buffer_size": 395,
+				"buffer_size": 720,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "\nDon't use `ng-init` in the body.\n\n`ng-bind` will do the same binding\n\n\n# Scoping\n\n`$scope`\n\n#\n",
+			"contents": "Package Control Messages\n========================\n\nEmmet:\n-----\n\n  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message). \n  \n  ******************************\n  Please restart editor \n  to finish installation process \n  after PyV8 was downloaded.\n  ******************************\n  \n  Tab key handler\n  ==========================\n  \n  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.\n  \n  Please read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.\n  \n  Enter key\n  ==========================\n  \n  In HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).\n  \n  To disable Enter key handler, simply add the following option in your user's Preferences file:\n  \n  \"disable_formatted_linebreak\": true\n  \n  Actions shortcuts\n  ==========================\n  \n  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:\n  https://github.com/sergeche/emmet-sublime\n  \n  Documentation and examples:\n  http://emmet.io\n  \n  ------------------------------\n  Follow me on Twitter: @emmetio\n  ------------------------------\n  \n  ",
+			"settings":
+			{
+				"buffer_size": 1694,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		},
+		{
 			"file": "public/notes/notes.md",
-			"file_size": 92,
-			"file_write_time": 130699637015430369,
 			"settings":
 			{
 				"buffer_size": 95,
@@ -548,18 +555,39 @@
 		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
-		"height": 117.0,
+		"height": 75.0,
+		"last_filter": "install",
 		"selected_items":
 		[
 			[
-				"html",
-				"Snippet: html"
-			],
-			[
 				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"html",
+				"Snippet: html"
 			],
 			[
 				"conv",
@@ -614,13 +642,14 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 575.0
+		"width": 291.0
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 139.0,
 		"history":
 		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
 	"distraction_free":
@@ -636,17 +665,20 @@
 	[
 		"/home/faris/workspace/projects/EggheadAngularWorkshop",
 		"/home/faris/workspace/projects/EggheadAngularWorkshop/public",
-		"/home/faris/workspace/projects/EggheadAngularWorkshop/public/repeat"
+		"/home/faris/workspace/projects/EggheadAngularWorkshop/public/sort_filter"
 	],
 	"file_history":
 	[
+		"/home/faris/.config/sublime-text-3/Packages/User/JavaScript.sublime-settings",
+		"/home/faris/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/faris/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/faris/.config/sublime-text-3/Packages/User/HTML (Django).sublime-settings",
+		"/home/faris/workspace/projects/EggheadAngularWorkshop/public/repeat/app.js",
+		"/home/faris/workspace/projects/EggheadAngularWorkshop/public/repeat/index.html",
 		"/home/faris/workspace/projects/EggheadAngularWorkshop/public/mod_example/app.js",
 		"/home/faris/workspace/projects/EggheadAngularWorkshop/public/01/index.html",
 		"/home/faris/workspace/projects/EggheadAngularWorkshop/public/03/basic_controller.js",
 		"/home/faris/workspace/projects/EggheadAngularWorkshop/public/mod_example/index.html",
-		"/home/faris/.config/sublime-text-3/Packages/User/JavaScript.sublime-settings",
-		"/home/faris/.config/sublime-text-3/Packages/User/HTML (Django).sublime-settings",
-		"/home/faris/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
 		"/home/faris/.config/sublime-text-3/Packages/User/HTML.sublime-settings",
 		"/home/faris/workspace/projects/EggheadAngularWorkshop/public/02/index.html",
 		"/home/faris/workspace/projects/zaniac/apps/calendars/static/css/zaniac_calendar.css",
@@ -764,14 +796,11 @@
 		"/home/faris/workspace/projects/zaniac/apps/schedules/tests/schedbase.py",
 		"/home/faris/workspace/projects/zaniac/apps/schedules/management/commands/load_resources.py",
 		"/home/faris/workspace/projects/zaniac/apps/schedules/templates/schedules/includes/api/next_lesson_dropdown.html",
-		"/home/faris/workspace/projects/zaniac/apps/inquest/models.py",
-		"/home/faris/workspace/projects/zaniac/apps/inquest/fix_utf8_assessment.py",
-		"/home/faris/workspace/projects/zaniac/apps/zaniac/zaniacsitemaps.py",
-		"/home/faris/workspace/projects/zaniac/apps/zaniac/migrations/0049_auto__add_field_programschedule_frequency_of_courses.py"
+		"/home/faris/workspace/projects/zaniac/apps/inquest/models.py"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
@@ -989,29 +1018,67 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "public/repeat/index.html",
+					"file": "public/sort_filter/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 570,
+						"buffer_size": 1124,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								516,
-								516
+								109,
+								109
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "public/sort_filter/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1021,25 +1088,26 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "public/repeat/app.js",
+					"buffer": 2,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 395,
+						"buffer_size": 1694,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								226,
-								226
+								1694,
+								1694
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1047,15 +1115,9 @@
 					},
 					"stack_index": 0,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "public/notes/notes.md",
 					"semi_transient": false,
 					"settings":
@@ -1073,13 +1135,13 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -1087,7 +1149,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 35.0
+		"height": 25.0
 	},
 	"input":
 	{
@@ -1113,7 +1175,7 @@
 		"cols":
 		[
 			0.0,
-			0.64243902439,
+			0.415315736059,
 			1.0
 		],
 		"rows":
@@ -1134,12 +1196,13 @@
 	"project": "eggheadworkshop.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -1148,6 +1211,7 @@
 	"select_project":
 	{
 		"height": 500.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -1164,12 +1228,13 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
@@ -1177,7 +1242,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 168.0,
+	"side_bar_width": 220.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

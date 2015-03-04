@@ -12,8 +12,10 @@
 
   <div ng-controller="WorkshopCtrl as workshop">
 
-    <input type='text' ng-model="workshop.searchObject.name" />
-    <input type='text' ng-model="workshop.searchObject.duration" />
+  <p>
+    <input placeholder="search by name" type='text' ng-model="workshop.searchObject.name" />
+    <input placeholder="search by duration" type='text' ng-model="workshop.searchObject.duration" />
+  </p>
 
     <table class='table table-bordered'>
       <thead>
