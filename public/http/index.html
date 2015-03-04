@@ -15,20 +15,26 @@
       <thead>
         <tr>
           <th>Image</th>
-          <th>Name</th>
-          <th>Average Rating</th>
+          <th>First Name</th>
+          <th>Last Name</th>
+          <th>Actions</th>
         </tr>
       </thead>
       <tbody>
-        <tr ng-repeat="game in workshop.games">
+        <tr ng-repeat="person in workshop.people">
           <td>
-            <img alt="{{ game.name }}" ng-src="/{{ game.thumbnail }}" />
+            <img alt="{{ person.name }}" ng-src="{{ person.avatar }}" />
           </td>
           <td>
-            {{ game.name }}
+            {{ person.firstName }}
           </td>
           <td>
-            {{ game.averageRating }}
+            {{ person.lastName }}
+          </td>
+          <td>
+            <button class='btn btn-danger' ng-click="workshop.removeGame(person.id)">
+              Delete
+            </button>
           </td>
         </tr>
       </tbody>
