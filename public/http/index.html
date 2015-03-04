@@ -22,7 +22,7 @@
       <tbody>
         <tr ng-repeat="game in workshop.games">
           <td>
-            <img src="/{{ game.thumbnail }}" />
+            <img alt="{{ game.name }}" ng-src="/{{ game.thumbnail }}" />
           </td>
           <td>
             {{ game.name }}
